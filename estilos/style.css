@@ -16,3 +16,17 @@ main {
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.446);
     padding: 10px;
 }
+
+img.direita {
+    float: right;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    font-weight: bold;
+    color: red;
+}
